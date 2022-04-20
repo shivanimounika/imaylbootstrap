@@ -1,0 +1,142 @@
+/* .navbar-content{
+    background-color: #212529;
+}
+.navbarimg{
+    top: 33px; left: 140px; width: 200px; height: 47px;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+} */
+.packagetxt{
+    color: black; font-size: 28px; font-weight: 500; font-family: "Uber Move Text";
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    margin-top: 30px;margin-bottom: 3rem;text-align: left;
+}
+
+.card{
+    padding-top: 3rem;
+}
+.packagetxt1{
+    padding-left: 2.5rem;
+    font-size: 18px;
+}
+.logform{
+    color: black;font-weight:500;font-family: "Uber Move Text"; list-style: disc;padding-left: 4rem;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+
+}
+.btn-primary{
+    width: 159px; height: 45px; background-color: rgb(7, 65, 131);font-size: 0.85rem;
+}
+.img{
+    width: 33rem; height:23rem;margin-left:0;
+}
+.page-footer{
+    background-color: black; margin-top: 20rem;margin-left:0;
+}
+.icons{
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-size: 15px;
+    padding-left: 16px;
+    padding-right: 30px;
+    padding-top: 14px;
+    
+}
+.googleplay{
+    width: 240px; height: 90px;padding-top: 20px;
+}
+.appstore{
+    width: 240px; height: 90px;padding-top: 20px;
+}
+
+
+.manage{
+    color: #fff;
+    font-size: 16px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    padding-top: 30px;
+    text-align: right;
+}
+.button{
+    width: 200px; height: 50px; background-color: rgb(7, 65, 131); font-size: 19px;color: #fff;
+    border-color: #0d6efd;border-radius: 0.25rem;margin-left: 59px;margin-top: 30px;
+}
+.banner{
+    background-color: #181818;padding-top: 10px;padding-bottom: 10px;margin-top: 15px;
+}
+.imaylimg1{
+    width: 130px;
+    height: 60px;
+    margin-left: 190px;
+    padding-top: 35px;
+}
+.copyright{
+    color: #fff;
+    text-align: center;
+    font-size: 9px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+
+@media screen and (max-width: 504px) {
+    .packagetxt {
+      text-align: center;
+      font-size: 14px;
+    }
+    .packagetxt1{
+        padding-left: 2.5rempx;
+    }
+    .img{
+        margin-left: 2rem;
+        margin-top: 38px;
+        width: 19rem;
+        height: 15rem;
+        
+    }
+    .icons {
+        margin-left:0rem;
+        background-color: black;
+        color: #fff;
+        width: fit-content;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 14px;
+    }
+    .page-footer{
+        background-color: black; margin-top: 20rem;margin-left:0rem;height: auto;
+    }
+    .googleplay{
+         width: fit-content;
+         background-color: black;
+        
+     }
+     .appstore{
+         width: max-content;
+         background-color: black;
+     }
+     .imaylimg1{
+        width: 130px;
+        height: 40px;
+        margin-left:123px;
+        padding-top: 10px;
+    }
+    .banner{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .manage{
+        color: #fff;
+        font-size: 13px;
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+        text-align: center;
+        padding-top: 10px;
+    }
+    .button{
+        width: 200px; height: 50px; background-color: rgb(7, 65, 131); font-size: 19px;color: #fff;
+        border-color: #0d6efd;border-radius: 0.25rem;margin-left:74px;margin-top: 30px;
+    }
+
+
+}
